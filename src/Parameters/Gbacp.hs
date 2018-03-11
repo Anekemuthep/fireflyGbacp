@@ -8,6 +8,9 @@ function x = 2*x
 numberSet :: [Int]
 numberSet = [1,2,3,4,5,6]
 
+numberSet2 :: [Int]
+numberSet2 = [2,3,4,7]
+
 
 --main :: IO ()
 --main = do line <- getLine
