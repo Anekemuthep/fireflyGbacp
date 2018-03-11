@@ -1,0 +1,41 @@
+
+==================== FINAL INTERFACE ====================
+2017-10-13 18:56:49.407524 UTC
+
+interface fireflyGbacp-0.1.0.0-J2A8rv1wkZpIP1ofKyg7i:Parameters.Firefly 8002
+  interface hash: 8f901beafebc3e1598dc7d3879b18697
+  ABI hash: b0477a20b11aa32655bba9e8dfb46235
+  export-list hash: 961ea0c05f98421e5a6a11c6aa650089
+  orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
+  flag hash: feb22396376cfdf254bf8a8b3a9efd49
+  sig of: Nothing
+  used TH splices: False
+  where
+exports:
+module dependencies:
+package dependencies:
+orphans:
+family instance modules:
+e9deeeaea8d2e871b93cc231f3b13e92
+  $trModule :: GHC.Types.Module
+  {- HasNoCafRefs, Strictness: m,
+     Unfolding: (GHC.Types.Module
+                   Parameters.Firefly.$trModule2
+                   Parameters.Firefly.$trModule1) -}
+6fabcf7a4f2ebc40b9c4b08dfaf5e5ed
+  $trModule1 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS "Parameters.Firefly"#) -}
+e1ef9e0a38d6ac5b68eaca60d034c1f5
+  $trModule2 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS
+                   "fireflyGbacp-0.1.0.0-J2A8rv1wkZpIP1ofKyg7i"#) -}
+vectorised variables:
+vectorised tycons:
+vectorised reused tycons:
+parallel variables:
+parallel tycons:
+trusted: safe
+require own pkg trusted: False
+
